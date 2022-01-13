@@ -17,11 +17,14 @@
 
 - **hoisting:** É quando atribuimos um valor a uma variável e só depois declaramos ela.
 
-  
+Exemplo:
+  <br>
 
-  **algumaVar = 10
-  console.log(algumaVar)
-  var algumaVar**
+  **algumaVar = 10**
+  
+  **console.log(algumaVar)**
+  
+  **var algumaVar**
   
   
   
